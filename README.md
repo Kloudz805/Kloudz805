@@ -1,6 +1,12 @@
 ## Hi there 👋
 ### About Me
-FPV Systems Specialist and Open Source Contributor specializing in resilient firmware configurations for field operations.
+Open-Source Developer & UAS Systems Engineer
+​Pioneering the AI-FPV Bridge: Dedicated to integrating high-performance manual flight platforms with autonomous AI logic. My work focuses on enhancing signal reliability and operational safety for drones in "Extreme Environments" where standard systems fail.
+​Current Focus:
+​Project Exocoetus: Developing the code that bridges traditional FPV hardware with AI-assisted stability and navigation to maintain signal integrity in high-interference zones.
+​Firmware Logic: Optimizing Betaflight for reliable fail-safe behaviors, accessibility, and analog signal clarity.
+​Leah-SAR: Engineering low-resource, rapid-deployment drone tech for humanitarian Search & Rescue missions.
+​“I build the bridges that the future of drone technology walks across.”
 
 **Current Focus:**
 * **Project Exocoetus:** Developing "Extreme Environment Presets" for sUAS to maintain signal integrity in high-interference zones.
